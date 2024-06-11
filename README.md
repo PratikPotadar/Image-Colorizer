@@ -10,6 +10,6 @@ Black and white image colorization with OpenCV.
 **Lab Colour**
 Like RGB, lab colour has 3 channels L, a, and b. But here instead of pixel values, these have different significances i.e :
 
-_**L-channel:**_ light intensity
-_**a channel:**_ green-red encoding
-_**b channel:**_ blue-red encoding
+**L-channel:** light intensity
+**a channel:** green-red encoding
+**b channel:** blue-red encoding
